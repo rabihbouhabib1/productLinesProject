@@ -1,0 +1,15 @@
+.custom-bg{
+    background: rgb(219, 242, 249);
+}
+.custom-modal{
+    background: rgb(219, 242, 249);
+}
+.img {
+    border-radius: 50%;
+}
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
